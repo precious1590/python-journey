@@ -1,3 +1,20 @@
+# -----------------------------------------
+# Fuel Station Project
+# Author: Precious Komolafe
+#
+# Concepts Practiced:
+# - while loops
+# - nested if statements
+# - variables
+# - user input
+#
+# Description:
+# Simulates a fuel station where customers buy fuel,
+# enter an ATM PIN, pay, and fuel stock is updated.
+# -----------------------------------------
+
+
+
 Fuel = 120
 while Fuel > 0:
     print("Available liter:",Fuel)
