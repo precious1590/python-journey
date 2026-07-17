@@ -13,13 +13,11 @@ if Username == "admin" and password == "python123":
 
          if not Fullname :
                 print("name is required")
-         else:
-                
+         else:        
                 if Age >= 18:
                         
                         if Nationality != "nigerian":
-                            print("Only Nigerians are eligible for enrollment")
-                            
+                            print("Only Nigerians are eligible for enrollment")    
                         else:
                             State = input("state:")
                             Waec_score = int(input("WAEC SCORE:"))
