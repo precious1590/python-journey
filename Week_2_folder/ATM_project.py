@@ -12,3 +12,7 @@ while Attempts > 0:
     print("Attempts left:", Attempts)
 else:
     print("Card Blocked")
+
+
+for number in range(5,51,):
+    print('5 x', number,' =', 5 * number) 
